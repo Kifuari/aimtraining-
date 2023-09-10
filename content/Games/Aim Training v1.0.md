@@ -1,3 +1,9 @@
+---
+title: Aim Training
+description: Aim Training
+date: 2023-09-10
+authors: [Kifuari]
+---
 **Table of contents**
 
 - [About](#about)

@@ -57,7 +57,7 @@
 - [Auto Progress Sheet Updater](https://bit.ly/UpdaterTool)
 - [Sens Randomizer](https://bit.ly/WhispRandom)
 - [RawAccel](https://bit.ly/RawAccel)
-### Полезные темы ознакомления
+### Полезные темы для ознакомления
 - [Why Sens Randomizer can be Useful](http://bit.ly/vtsensrandomizer)
 - [Why Muscle Memory is seen as a Meme in Aiming](https://bit.ly/musclememorymeme)
 - [What is a Coach?](https://bit.ly/VTxRPcoachguide)

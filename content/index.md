@@ -11,7 +11,7 @@
 - [Aimlabs в Steam](https://store.steampowered.com/app/714010/Aimlabs/)
 - [Aimbeast в Steam](https://store.steampowered.com/app/1100990/Aimbeast/)
 # Подбор чувствительности мыши
-Выбор чувствительности мыши (сенсы) зависит от ваших предпочтений, но что бы иметь общее представлении с какой играют другие люди рекомендую ознакомится с следующим [**чартом**](https://i.redd.it/i9euwbx7zdj91.png) (Roblox и Minecraft добавлены как шутка). 
+Выбор чувствительности мыши (сенсы) зависит от ваших предпочтений, но что бы иметь общее представлении с какой играют другие люди рекомендую ознакомится с следующим чартом ![**чартом**](https://i.redd.it/i9euwbx7zdj91.png) (Roblox и Minecraft добавлены как шутка). 
 ## Конвертеры
 - [mouse-sensitivity.com](https://www.mouse-sensitivity.com/) 
 - [Mouse Sensitivity Calculator for Various Games - JSCalc.io](https://jscalc.io/embed/za5TQmMatqU4kXSR)
